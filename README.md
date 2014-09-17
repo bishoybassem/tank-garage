@@ -30,4 +30,5 @@ To run the release do the first 2 steps, and to edit the solution in Visual Stud
 2. Place `glut32.dll` in the `C:\Windows\System32` directory.
 3. Place `glut.h` in the `C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include` directory.
 4. Place `glut32.lib` in the `C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\lib` directory.
+
 (directories can differ depending on the used version of VS and it's installation directory)
