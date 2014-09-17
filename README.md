@@ -25,12 +25,10 @@ An OpenGL game hosting several chassis parts and weapons that can be chosen from
 ### OpenGL Setup
 
 To run the release do the following:
-
-1- Download & extract the latest version of OpenGL from [here](http://user.xmission.com/~nate/glut.html).
-2- Place "glut32.dll" in the "C:\Windows\System32" directory.
+1. Download & extract the latest version of OpenGL from [here](http://user.xmission.com/~nate/glut.html).
+2. Place "glut32.dll" in the "C:\Windows\System32" directory.
 
 To edit the solution in Visual Studio:
-
-3- Place "glut.h" in the "C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include" directory.
-4- Place "glut32.lib" in the "C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\lib" directory.
+3. Place "glut.h" in the "C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include" directory.
+4. Place "glut32.lib" in the "C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\lib" directory.
 (directories can differ depending on the used version of VS and it's installation directory)
